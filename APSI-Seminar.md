@@ -94,7 +94,15 @@ tema de terminat diagrama asta si aia cu BikeGO
 
 \----------------------------------------------------------------------------------------------------------
 
+Seminar 5
+intre clase pot sa am:
+-Agregare:
+Compusa --> dispare intreguldispare si subcalsa
+partajata -->dispare intregul e okay
+-Generalizare (Mostenire)
+-Dependenta
 
+spre clasa am cate poate clasa din partea opusa gen
 
 
 
