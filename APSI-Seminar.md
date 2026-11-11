@@ -104,5 +104,12 @@ partajata -->dispare intregul e okay
 
 spre clasa am cate poate clasa din partea opusa gen
 
+\----------------------------------------------------------------------------------------------------------
 
+Seminar 7
+
+Click dreapta pe state si Open Specification de acolo umblu cu Create activity la ENTRY, DO si EXIT
+
+Fiecare Dreptunghi este o stare a obiectului
+Actiunile apar pe Sageti intre [Actiuni]
 
