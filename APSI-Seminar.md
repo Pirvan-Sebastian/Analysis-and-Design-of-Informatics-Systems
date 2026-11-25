@@ -95,21 +95,35 @@ tema de terminat diagrama asta si aia cu BikeGO
 \----------------------------------------------------------------------------------------------------------
 
 Seminar 5
-intre clase pot sa am:
--Agregare:
-Compusa --> dispare intreguldispare si subcalsa
-partajata -->dispare intregul e okay
--Generalizare (Mostenire)
--Dependenta
+    intre clase pot sa am:
+    -Agregare:
+    Compusa --> dispare intreguldispare si subcalsa
+    partajata -->dispare intregul e okay
+    -Generalizare (Mostenire)
+    -Dependenta
 
-spre clasa am cate poate clasa din partea opusa gen
+    spre clasa am cate poate clasa din partea opusa gen
 
 \----------------------------------------------------------------------------------------------------------
 
 Seminar 7
 
-Click dreapta pe state si Open Specification de acolo umblu cu Create activity la ENTRY, DO si EXIT
+    Click dreapta pe state si Open Specification de acolo umblu cu Create activity la ENTRY, DO si EXIT
 
-Fiecare Dreptunghi este o stare a obiectului
-Actiunile apar pe Sageti intre [Actiuni]
+    Fiecare Dreptunghi este o stare a obiectului
+    Actiunile apar pe Sageti intre [Actiuni]
+\----------------------------------------------------------------------------------------------------------
 
+Seminar 9 - Sequence Diagram
+
+    -OBS: atunci cand construim o Diagrama de Secventa putem avea 2 abordari:
+
+        1.  Tratam sistemul ca un obiect de sine statator (nu cunoastem componentele).
+            In acest caz, modelam exclusiv interactiunile sistemului cu mediul exterior
+
+        2.  Modelam componentele sistemului si interactiunile acestora atat intre ele cat si cu mediul exterior
+
+    -Lifeline pt sistem si Actor pt actori
+    -click dreapta pe sectiunile alea si change kind ca sa schimb din alt sau loop
+    -click dreapta si operand ca sa add sau nu, sau manage operands si fac de toate(constraints sunt conditiile!)
+    -click dr si sync to comm diagram imi face automat diagrama de comunicare!(tare!)
